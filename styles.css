@@ -62,4 +62,11 @@ h2 {
 }
 .avatar {
     width: 150px;
+    height: 175px;
+}
+img {
+    width: 120px;
+    height: 70px;
+    margin-top: 10px;
+    border-radius: 10px;
 }
